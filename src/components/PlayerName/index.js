@@ -1,5 +1,5 @@
 function PlayerName(content) {
-    return `
+    return /*html */`
         <p>${content}</p>
     `
 }
